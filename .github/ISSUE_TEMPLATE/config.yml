@@ -1,5 +1,5 @@
 blank_issues_enabled: false
 contact_links:
-  - name: Usage Support
-    url: https://github.com/allejo/jekyll-toc/discussions
-    about: Ask and answer questions about how to use this snippet
+  - name: .NET issues
+    url: https://github.com/dotnet/runtime#filing-issues
+    about: Issues with the runtime, class libraries, frameworks, and SDK should be addressed directly with the .NET team. Documentation on filing issues can be found here.
